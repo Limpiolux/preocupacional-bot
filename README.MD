@@ -49,7 +49,7 @@ En la parte de automatización creé un flujo nuevo. Si la columna en la lista d
 
 El flujo primero verifica si se modifico un elemento, en tal caso de que se haya modificado un elemento, si la columna Notificar tiene el valor "true" se va a enviar una petición al endpoint con el JSON y se va a publicar un mensaje en un canal de Teams diciendo que ya se envío el mensaje.
 
-![Automatización](img/automatizacion.png)
+![Automatización](img/automatización.png)
 
 ## Docker
 
